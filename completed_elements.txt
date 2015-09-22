@@ -1,0 +1,13 @@
+- Jumbotron
+- Page header
+- Typography:
+  - h1-h6
+  - code, kbd, pre, samp
+  - mark, abbr, blockquote
+- Well
+- Panels
+- Listgroups
+- Tables
+- Images
+- Alerts
+- Buttons
