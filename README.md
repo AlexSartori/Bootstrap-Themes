@@ -1,12 +1,9 @@
 # Bootstrap Themepack #
 
----
-Please committare [come dio comanda](https://github.com/erlang/otp/wiki/Writing-good-commit-messages).
+`preview.html` is a preview of the flat-light theme (further themes will come)
 
----
-`preview.html` lo useremo per provare i componenti e come showcase/demo.
+`theme.compiled.css` is the compiled CSS you need to include **after** Bootstrap to override the default theme.
 
-`theme.compiled.css` è il file che verrà incluso nell'HTML (dopo BS) e che eseguirà l'override degli stili.
+--
 
----
-I file css sono scritti in less se no con tutti quei colori demmerda veniva fuori un bordello.
+**Note:** This repo is still being developed, and not every BS element may be styled if you use the theme at this time.
